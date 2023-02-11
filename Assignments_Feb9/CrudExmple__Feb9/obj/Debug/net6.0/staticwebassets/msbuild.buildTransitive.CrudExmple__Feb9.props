@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CrudExmple__Feb9.props" />
+</Project>

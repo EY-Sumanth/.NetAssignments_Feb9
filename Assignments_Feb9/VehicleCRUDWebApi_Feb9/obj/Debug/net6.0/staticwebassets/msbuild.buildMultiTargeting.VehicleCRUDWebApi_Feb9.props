@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VehicleCRUDWebApi_Feb9.props" />
+</Project>

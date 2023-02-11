@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CrudExmple__Feb9.props" />
+</Project>
